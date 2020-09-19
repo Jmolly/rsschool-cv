@@ -38,4 +38,4 @@ CodeWars:
 * Mathematics and Informatics Faculty of Yanks Kupala Grodno State University 
 
 #### English level
-Intermediate
+B1
